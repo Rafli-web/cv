@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <Navbar fluid rounded>
             <Navbar.Brand as={NavbarLink} >
-                <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Curriculum Vitae</span>
+                <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white"></span>
             </Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse>
